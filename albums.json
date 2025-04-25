@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Future Nostalgia",
+    "artist": "Dua Lipa",
+    "year": 2020,
+    "cover_url": "images/futurenostalgia.jpg"
+  },
+  {
+    "title": "Melodrama",
+    "artist": "Lorde",
+    "year": 2017,
+    "cover_url": "images/melodrama.png"
+  },
+  {
+    "title": "After Hours",
+    "artist": "The Weeknd",
+    "year": 2020,
+    "cover_url": "images/afterhours.jpg"
+  },
+  {
+    "title": "25",
+    "artist": "Adele",
+    "year": 2015,
+    "cover_url": "images/25.jpg"
+  },
+  {
+    "title": "Born This Way",
+    "artist": "Lady Gaga",
+    "year": 2011,
+    "cover_url": "images/bornthisway.jpg"
+  },
+  {
+    "title": "Lemonade",
+    "artist": "Beyoncé",
+    "year": 2016,
+    "cover_url": "images/lemonade.jpg"
+  }
+]
