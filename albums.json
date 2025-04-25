@@ -31,8 +31,14 @@
   },
   {
     "title": "Lemonade",
-    "artist": "Beyoncé",
+    "artist": "Beyonc\u00e9",
     "year": 2016,
     "cover_url": "images/lemonade.jpg"
+  },
+  {
+    "title": "K-12",
+    "artist": "Melanie Martinez",
+    "year": "2019",
+    "cover_url": "https://m.media-amazon.com/images/I/71LX7fiifML.jpg"
   }
 ]
